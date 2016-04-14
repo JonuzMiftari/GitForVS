@@ -8,5 +8,8 @@ namespace VS_Demo
 {
     public class Class1
     {
+        //Local changes
+
+        //some more changes
     }
 }
